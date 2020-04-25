@@ -1,6 +1,7 @@
 # MOGAMUN.experiment
 
-## Data files and test scripts
+Data files and test scripts
+---------------------------
 
 - Download the `MOGAMUN.data.zip` archive and unzip it in your HOME directory or anywhere suitable
 - Install the MOGAMUN package (see instruction on https://github.com/Laulo/MOGAMUN)
