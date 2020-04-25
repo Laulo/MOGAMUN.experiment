@@ -10,4 +10,4 @@ Data files and test scripts
 Reproduce results from MOGAMUN paper
 ------------------------------------
 
-- TODO: add bioarXiv reference to the article
+- TODO: add bioRxiv reference to the article
