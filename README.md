@@ -10,7 +10,10 @@ Data files and test scripts
 Reproduce results of MOGAMUN paper
 ----------------------------------
 
-- TODO: add bioRxiv reference to the article
+TODO
+----
+
+- add bioRxiv reference to the article
 - maybe add information:
 
   * on how to get DE data file (either produce them or get them),
