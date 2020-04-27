@@ -11,3 +11,8 @@ Reproduce results of MOGAMUN paper
 ----------------------------------
 
 - TODO: add bioRxiv reference to the article
+- maybe add information:
+
+  * on how to get DE data file (either produce them or get them),
+  * on how to produce layers (from STRING database, etc).
+
